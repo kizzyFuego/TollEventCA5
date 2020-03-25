@@ -10,7 +10,7 @@ This is a school project.
 - Processing text files 
 
 ## Getting Started
-Download or clone this respository
+Download or clone this respository.
 
 ### Prerequisites
 - Mysql
@@ -24,6 +24,10 @@ Import the sql file provided into the databse.
 
 ## Running The Program
 Run the main class
+
+  ### Note
+ -Ensure that Mysql JDBC connector library is installed in the IDE. Incase its not already installed.
+ -For the testing library, enure that Junit and Hamcrest library is installed.
 
 ## Versioning
 Github will be used. So any subsequent update can be found at this github respository.
