@@ -26,8 +26,8 @@ Import the sql file provided into the databse.
 Run the main class
 
   ### Note
- -Ensure that Mysql JDBC connector library is installed in the IDE. Incase its not already installed.
- -For the testing library, enure that Junit and Hamcrest library is installed.
+    Ensure that Mysql JDBC connector library is installed in the IDE. Incase its not already installed.
+    For the testing library, enure that Junit and Hamcrest library is installed.
 
 ## Versioning
 Github will be used. So any subsequent update can be found at this github respository.
