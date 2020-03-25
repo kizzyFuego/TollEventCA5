@@ -13,8 +13,8 @@ This is a school project.
 Download or clone this respository
 
 ### Prerequisites
-Mysql
-Netbean IDE Or Any Suitable Java IDE
+- Mysql
+- Netbean IDE Or Any Suitable Java IDE
 
 ### Installing
 You should create a database called tollSystem or you can modify the databse name from the code to suit your database name.
